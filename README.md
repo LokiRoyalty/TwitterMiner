@@ -2,7 +2,7 @@
 
 This project is a Twitter scraper built using Selenium. It logs into Twitter, searches for tweets based on a specified query, and extracts tweets with their metadata. The extracted data is saved in a JSON file.
 
-- [Setup](#setup)
+- [Setup]
  **Configure your credentials and settings:**
    - Open `config.py` and add your Twitter email, username, and password:
      ```python
